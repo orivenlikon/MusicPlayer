@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+   
+    <item android:id="@+id/item_delete_music" android:title="@string/delete_music"></item>
+   
+    <item android:id="@+id/item_scan" android:title="@string/scan_music"></item>
+     
+
+</menu>
